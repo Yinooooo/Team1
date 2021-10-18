@@ -16,3 +16,4 @@
 |C108118149|楊勝瑋|模型訓練、撰寫網頁|
 
 ## 甘特圖
+![Gantt](https://github.com/Yinooooo/Team1/blob/main/gan.png)
