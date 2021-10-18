@@ -17,3 +17,7 @@
 
 ## 甘特圖
 ![Gantt](https://github.com/Yinooooo/Team1/blob/main/gan.png)
+
+## Pert圖
+![Pert](https://github.com/Yinooooo/Team1/blob/main/pert.jpg)
+關鍵路徑:1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> 13
