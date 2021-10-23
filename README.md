@@ -36,4 +36,4 @@
 * 辨識準確度高
 * 沒有複雜操作
 
-## 使用案例說明
+![Image](https://github.com/Yinooooo/Team1/blob/main/不知道甚麼圖.jpg)
