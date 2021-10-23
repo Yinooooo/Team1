@@ -51,4 +51,4 @@
 (4)與他人相似度分析
 
 ## 使用案例說明
-![Image](https://github.com/Yinooooo/Team1/blob/main/%E4%BA%BA%E8%87%89%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.PNG)
+![Image](https://github.com/Yinooooo/Team1/blob/main/%E4%BA%BA%E8%87%89%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E.PNG)
