@@ -53,6 +53,7 @@
 ## 使用案例說明
 ![Image](https://github.com/Yinooooo/Team1/blob/main/%E4%BA%BA%E8%87%89%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E.PNG)
 ![Image1](https://github.com/Yinooooo/Team1/blob/main/%E4%BA%BA%E8%87%89%E7%99%BB%E5%85%A5%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.jpg)
+[Image2](https://github.com/Yinooooo/Team1/blob/8ef4a7c772e5846b1d5383f81e458b1ecf472aa8/%E7%9D%A1%E7%9C%A0%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.jpg)
 
 ## 使用案例圖
 ![Image](https://github.com/Yinooooo/Team1/blob/main/%E4%BA%BA%E8%87%89%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.PNG)
