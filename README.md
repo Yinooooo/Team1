@@ -62,7 +62,7 @@
 ![Image](https://github.com/Yinooooo/Team1/blob/main/DFD.png)
 
 ## 資料流程圖
-![Image](https://github.com/Yinooooo/Team1/blob/main/DFD_1.PNF)
+![Image](https://github.com/Yinooooo/Team1/blob/main/DFD_1.PNG)
 
 
 
