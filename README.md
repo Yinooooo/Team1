@@ -67,6 +67,7 @@
 
 ## 循序圖
 ![Image](https://github.com/Yinooooo/Team1/blob/main/%E6%94%B6%E6%AC%BE%E5%BE%AA%E5%BA%8F%E5%9C%96.PNG)
+![Image](https://github.com/Yinooooo/Team1/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%962.jpg)
 
 ## 類別圖
 ![Image](https://github.com/Yinooooo/Team1/blob/main/%E9%A1%9E%E5%88%A5%E5%9C%96.PNG)
