@@ -73,3 +73,9 @@
 
 ## 類別圖
 ![Image](https://github.com/Yinooooo/Team1/blob/main/%E9%A1%9E%E5%88%A5%E5%9C%96.PNG)
+
+## 分鏡板
+![Image](https://github.com/Yinooooo/Team1/blob/main/SB1.jpg)
+![Image](https://github.com/Yinooooo/Team1/blob/main/SB2.jpg)
+![Image](https://github.com/Yinooooo/Team1/blob/main/SB3.jpg)
+![Image](https://github.com/Yinooooo/Team1/blob/main/SB4.jpg)
