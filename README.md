@@ -79,3 +79,6 @@
 ![Image](https://github.com/Yinooooo/Team1/blob/main/SB2.jpg)
 ![Image](https://github.com/Yinooooo/Team1/blob/main/SB3.jpg)
 ![Image](https://github.com/Yinooooo/Team1/blob/main/SB4.jpg)
+
+## 實體關係圖
+![Image](https://github.com/Yinooooo/Team1/blob/main/ERD.jpg)
